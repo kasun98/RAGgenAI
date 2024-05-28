@@ -42,7 +42,7 @@ The web app demonstrates exceptional performance in various tasks:
 
 2. **Navigate to the project directory**
     ```bash
-    cd your-repo-name
+    cd RAGgenAI
     ```
 
 3. **Install the necessary dependencies**
